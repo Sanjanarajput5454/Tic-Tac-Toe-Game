@@ -65,3 +65,7 @@ text-align: center;
 .hide{
   display: none;
 }
+#draw-msg{
+  color: black;
+  font-size: 4vmin;
+}
